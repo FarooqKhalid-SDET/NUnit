@@ -83,6 +83,6 @@ public class EqualityAssertions
     [Test]
     public void ComparingRelativeValues()
     {
-        Assert.GreaterOrEqual(4.1, 3);
+        Assert.GreaterOrEqual(2, 3);
     }
 }
